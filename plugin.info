@@ -1,0 +1,12 @@
+{
+  "created": "20250405172509256",
+  "title": "$:/plugins/pjerkins/aw-questions",
+  "modified": "20250405172509256",
+  "core.version": ">=5.3.3",
+  "description": "ArchWork Questions plugin",
+  "plugin-type": "plugin",
+  "version": "0.0.29",
+  "name": "aw-questions",
+  "dependents": "[[$:/plugins/pjerkins/aw-questions]] [[$:/plugins/pjerkins/aw-questions/Home]]",
+  "list": "readme"
+}
